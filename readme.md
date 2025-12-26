@@ -4,7 +4,7 @@ Uma ideia de jogo inspirada em Stardew Valley.
 
 📝 Sobre o Projeto
 
-Land of Fire é apenas uma ideia de jogo por enquanto. Ele ainda está bem no início e não tem nada demais, mas novas coisas serão adicionadas com o tempo.
+Land of Fire é apenas uma ideia de jogo por enquanto. Ele ainda está bem no início, mas novas coisas serão adicionadas com o tempo.
 
 🚀 Tecnologias Utilizadas
 
